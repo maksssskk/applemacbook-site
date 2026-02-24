@@ -32,12 +32,14 @@ Performance Optimization: Efficiently handling background images and layout shif
 Layered Compositing: Managing z-index and stacking contexts to place UI components over dynamic media.
 
 ## 🚀 Getting Started
-## 1.Clone the repository:
+1. **Clone the repository:**
+   ```
     git clone https://github.com/your-username/macbook-pro-gsap-grid.git
     
-## 2. Navigate to the folder:
+2. **Navigate to the folder:**
+   ```
     cd macbook-pro-gsap-grid
-## 3. Run the project:
+3. **Run the project:**
 Open index.html with Live Server to see the GSAP animations in action.
 
 ## 📄 License
