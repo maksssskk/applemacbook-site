@@ -33,11 +33,9 @@ Layered Compositing: Managing z-index and stacking contexts to place UI componen
 
 ## 🚀 Getting Started
 ## 1.Clone the repository:
-    ```
     git clone https://github.com/your-username/macbook-pro-gsap-grid.git
     
 ## 2. Navigate to the folder:
-    ```
     cd macbook-pro-gsap-grid
 ## 3. Run the project:
 Open index.html with Live Server to see the GSAP animations in action.
